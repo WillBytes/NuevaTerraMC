@@ -1,0 +1,67 @@
+.header {
+    width: 100%;
+    height: 100px;
+    display: block;
+    background-color: black;
+  }
+.inner_header {
+    width: 1850px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.buttons img{
+    height: 100px;
+    width: 100px;
+    vertical-align: middle;
+    float: right;
+}
+.header_text_cont {
+    height: 100%;
+    display: table;
+    float: left;
+}
+.header_text_cont h1{
+    color: white;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+.logo_cont img {
+    height: 100px;
+    width: 100px;
+    vertical-align: middle;
+    float: left;
+
+}
+body {
+    background-color:  #282828;;
+}
+p {
+    text-align: left;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+h4 {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+ul {
+    text-align: left;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
