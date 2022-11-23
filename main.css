@@ -14,7 +14,7 @@
     height: 100px;
     width: 100px;
     vertical-align: middle;
-    float: right;
+    float: middle;
 }
 .header_text_cont {
     height: 100%;
