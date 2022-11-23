@@ -11,10 +11,10 @@
     margin: 0 auto;
 }
 .buttons img{
-    height: 80px;
+    height: 100%;
     width: 200px;
     vertical-align: middle;
-    float: middle;
+    float: right;
 }
 .header_text_cont {
     height: 100%;
