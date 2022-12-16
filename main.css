@@ -27,11 +27,11 @@
     display: table-cell;
     vertical-align: middle;
 }
-.logo_cont img {
-    height: 100px;
-    width: 100px;
+.logo_cont a {
+    color: white;
+    height: 100%;
+    display: table-cell;
     vertical-align: middle;
-    float: left;
 
 }
 body {
